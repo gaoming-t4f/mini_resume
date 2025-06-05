@@ -10,7 +10,7 @@ save_as: index.html
 
 <div class="personal-info">
     <div class="info-header">
-        <h2 class="name">高铭11111</h2>
+        <h2 class="name">高铭</h2>
         <p class="position">求职意向：数据科学家/AI研究员</p>
         <p class="age">23岁</p>
     </div>
@@ -101,7 +101,9 @@ save_as: index.html
 
 # 实习经历
 
-## 京东科技 | 策略开发实习生
+
+
+##  [京东科技：策略开发实习生]({filename}/projects/jd.md)
 *2025年2月 - 2025年5月*
 
 - 风险预警：协助金白4个子业务的风险监控，覆盖30+资方，将分析时间从4h缩短至20min内
